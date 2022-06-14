@@ -6,6 +6,7 @@ Welcome to the first GSoft Architecture Center. You'll find blabla....
 
 <details>
   <summary>Answer</summary>
+  <br/>
   
   All applications must use React as a rendering library. Feel free to use any other **libraries or framework to enhance React capabilities**.
 
