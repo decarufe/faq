@@ -1,5 +1,7 @@
 # FAQ
 
+Welcome to the first GSoft Architecture Center. You'll find blabla....
+
 ## What framework or rendering library should I use?
 
 <details>
